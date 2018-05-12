@@ -1,4 +1,10 @@
 body {
-    background-image: url('../../Assets/Images/graystone.png'); 
+    background-image: url('graystone.png'); 
 
+}
+
+nav {
+    background: white;
+    border-bottom: solid black 2px;
+    
 }
